@@ -19,3 +19,15 @@
 <a href="01-basico/operadores_de_comparacion.php">Operadores de comparacion</a>
 <br>
 <a href="01-basico/operadores_logicos.php">Operadores logicos</a>
+<br>
+<a href="01-basico/operadores_de_incremento_y_decremento.php">Operadores de incremento y decremento</a>
+<br>
+<a href="01-basico/condicionales_simples.php">Condicionales simples</a>
+<br>
+<a href="01-basico/condicionales_dobles.php">Condicionales dobles</a>
+<br>
+<a href="01-basico/ejercicios.php">EJERCICIOS</a>
+<br>
+<a href="01-basico/condicionales_anidados.php">Condicionales anidados</a>
+<br>
+<a href="01-basico/switch_case.php">switch case</a>

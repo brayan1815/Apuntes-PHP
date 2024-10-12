@@ -45,3 +45,13 @@ echo "<br>";
 var_dump($valor1==5 || 9>3);
 echo "<br>";
 var_dump($valor1==5 || 1>3);
+
+/**
+ * --------TABLA DE OPERADOR NOT --------------------
+ * 
+ *      Exprecion 1                      Resultado
+ *      !False                           True
+ *      !True                            False
+ */
+echo"<br>";
+var_dump(!($valor1>=$valor2));
