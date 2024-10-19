@@ -31,3 +31,5 @@
 <a href="01-basico/condicionales_anidados.php">Condicionales anidados</a>
 <br>
 <a href="01-basico/switch_case.php">switch case</a>
+<br>
+<a href="01-basico/bucle_while.php">bucle while</a>
